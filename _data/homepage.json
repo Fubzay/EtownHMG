@@ -1,9 +1,9 @@
 {
   "hero": {
     "line1": "Mini golf,",
-    "line2": "food, fun &",
-    "line3": "great drinks.",
-    "desc": "Elizabethtown's favorite outdoor destination. 18-hole course, game yard, rooftop bar, food truck, and a private party room — all in one place.",
+    "line2": "food, beverages &",
+    "line3": "great family fun.",
+    "desc": "Elizabethtown's favorite family owned outdoor destination. 18-hole course, game yard, rooftop bar, food truck, and a private party room — all in one place.",
     "btn1": "Plan Your Visit",
     "btn2": "View Menu"
   },
@@ -22,14 +22,14 @@
     "color": "#2e7d4f"
   },
   "pricing": {
-    "adult_name": "Adult",
-    "adult_price": "$13",
-    "adult_desc": "Ages 11+. Includes a full 18-hole round with putter and ball. Perfect for date nights, groups, and competitive putters.",
-    "junior_name": "Junior",
-    "junior_price": "$11",
-    "junior_desc": "Ages 5–10. A full round of fun on our 18-hole course — putter and ball included. Great for kids getting into the game.",
-    "little_name": "Little Ones",
     "little_price": "Free",
+    "junior_name": "Junior",
+    "adult_price": "$13",
+    "junior_desc": "Ages 5–10. A full round of fun on our 18-hole course — putter and ball included. Great for kids getting into the game.",
+    "adult_name": "Adult",
+    "junior_price": "$11",
+    "little_name": "Little Ones",
+    "adult_desc": "Ages 11+. Includes a full 18-hole round with putter and ball. Perfect for date nights, groups, and competitive putters.",
     "little_desc": "Ages 4 & under play free! Bring the whole family without worry — the littlest putters are always on us."
   },
   "party": {
